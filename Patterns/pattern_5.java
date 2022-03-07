@@ -1,3 +1,7 @@
+
+    
+
+
 import java.util.*;
 
 public class pattern_5 {
