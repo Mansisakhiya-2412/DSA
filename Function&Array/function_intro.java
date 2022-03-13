@@ -21,6 +21,7 @@ public class function_intro{
         int num2 = scn.nextInt();
 
         add1(num1,num2);
-        //add2(num1,num2);
+        // Function return karyu hoi ane print na kariye to output blank j aavse atle print karvu jaruri 6e
+        System.out.println(add2(num1,num2)); 
     }
 }
