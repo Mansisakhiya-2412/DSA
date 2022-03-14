@@ -1,7 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
 
-
 public class FindElementInAnArray {
     public static void main(String args[]) {
         Scanner scn = new Scanner(System.in);
@@ -21,10 +20,10 @@ public class FindElementInAnArray {
         //logic
         for(int idx = 0 ; idx <= arr.length-1 ; idx++){
             if(arr[idx] == ele){
-                return idx;
+                return idx;//element Found
             }
            
         }
-        return -1;
+        return -1;//element  not Found
     }
 }
