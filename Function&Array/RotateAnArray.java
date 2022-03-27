@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class RotateAnArray{
+public class Main{
   public static void display(int[] a){
     StringBuilder sb = new StringBuilder();
 
@@ -31,9 +31,9 @@ public class RotateAnArray{
     }
 
     // reverse p2
-    reverse(a,0,a.length-k-1);
-    // reverse p1
     reverse(a,a.length-k,a.length-1);
+    // reverse p1
+    reverse(a,0,a.length-k-1);
     // reverse a
     reverse(a,0,n-1);
   }
