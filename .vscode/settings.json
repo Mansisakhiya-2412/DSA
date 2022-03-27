@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "Patterns",
-        "Function&Array"
+        "Function&Array",
+        "2dArrays"
     ]
 }

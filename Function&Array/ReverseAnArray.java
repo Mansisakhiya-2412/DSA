@@ -15,14 +15,14 @@ public class ReverseAnArray{
     // write your code here
     int low = 0 , high = a.length - 1;
 
-    while ( low < high ) {
-      //swap
-      int ele = a[low];
-      a[low] = a[high];
-      a[high] = ele;
+    while(low < high){
+        //swap
+        int ele = a[low];
+        a[low] = a[high];
+        a[high] = ele;
 
-      low++;
-      high--;
+        low++;
+        high--;
     }
   }
 
