@@ -15,8 +15,6 @@ public static void main(String[] args)  {
     
    subArrayProblem(arr);
 
- 
-
 }
 
 public static void subArrayProblem(int[] arr) {
