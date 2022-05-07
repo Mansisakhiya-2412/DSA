@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "String",
         "Patterns",
         "Function&Array",
         "2dArrays",
-        "String"
+        "Recursion"
     ]
 }
