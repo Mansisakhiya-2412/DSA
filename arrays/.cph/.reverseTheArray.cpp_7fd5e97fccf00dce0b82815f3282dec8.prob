@@ -1,0 +1,1 @@
+{"name":"Local: reverseTheArray","url":"d:\\DSA\\arrays\\reverseTheArray.cpp","tests":[{"id":1670085925568,"input":"2\n5\n1 1 2 2 3\n6\n2 3 5 6 2 5","output":"3 2 2 1 1\n5 2 6 5 3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\arrays\\reverseTheArray.cpp","group":"local","local":true}
